@@ -1,0 +1,43 @@
+body {
+    background: linear-gradient(to right, #03e7d8a9, #09eec8);
+  }
+  
+  .container-fluid {
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 10px;
+    padding: 20px;
+    /* margin-top: 50px; */
+    width: 100%;
+  }
+  
+  .main-body {
+    padding: 15px;
+  }
+  
+  .card {
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  }
+  
+  .card-body {
+    padding: 20px;
+  }
+  
+  .btn-primary {
+    background-color: #4e73df;
+    border-color: #4e73df;
+  }
+  
+  .btn-outline-primary {
+    color: #4e73df;
+    border-color: #4e73df;
+  }
+  
+  .btn-info {
+    background-color: #36b9cc;
+    border-color: #36b9cc;
+  }
+  
+  /* Add more custom styles for glassmorphism UI */
+  
